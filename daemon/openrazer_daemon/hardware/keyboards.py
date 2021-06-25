@@ -1192,7 +1192,7 @@ class RazerBladeEarly2020Base(_RippleKeyboard):
 
     DEVICE_IMAGE = "https://assets2.razerzone.com/images/blade-15/blade-15-base-model-spec-image-v2.png"
 
-class RazerBladeLate2020Base(_RippleKeyboard):
+class RazerBlade15Late2020Base(_RippleKeyboard):
     """
     Class for the Razer Blade Base (Late 2020)
     """
