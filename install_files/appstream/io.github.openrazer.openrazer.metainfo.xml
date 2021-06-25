@@ -155,5 +155,6 @@
     <modalias>usb:v1532p0F1Dd*</modalias>
     <modalias>usb:v1532p0F20d*</modalias>
     <modalias>usb:v1532p0F26d*</modalias>
+    <modalias>usb:v1532p0F268*</modalias>
   </provides>
 </component>
